@@ -1,2 +1,2 @@
 # biology
-scripts from the biology years
+scripts that might be instructive
